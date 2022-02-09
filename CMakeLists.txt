@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 3.10)
+
+project(Zad2)
+
+add_executable(Zad2 main.cpp)
